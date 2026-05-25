@@ -2,8 +2,7 @@
 # Movable Arduino Smart Trash Can
 
 ## Overview
-This project is a movable smart trash can built using an Arduino Uno.  
-It can automatically open when detecting an object and can move using a remote control.
+This project is a movable smart trash can built using an Arduino Uno.  It can automatically open when detecting an object and can move using a remote control.
 
 ## Features
 - Automatic lid opening
