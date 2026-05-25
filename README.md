@@ -27,7 +27,13 @@ The ultrasonic sensor detects nearby objects and opens the lid using a servo mot
 The trash can can also move using an IR remote and DC motors.
 
 ## Images
-(Add project images here)
+![Smart Trash Can 1](./SmartTrashcan1.jpg)
+
+![Smart Trash Can 2](./SmartTrashcan2.jpg)
+
+![Smart Trash Can 3](./SmartTrashcan3.jpg)
+
+![Smart Trash Can 4](./SmartTrashcan4.jpg)
 
 ## Arduino Code
 [View Arduino Code](./sketch_SmartTrashCan_copy_20260525154323.ino)
