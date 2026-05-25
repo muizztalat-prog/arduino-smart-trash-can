@@ -30,7 +30,7 @@ The trash can can also move using an IR remote and DC motors.
 (Add project images here)
 
 ## Arduino Code
-(Add your .ino file in the repository)
+[View Arduino Code](./sketch_SmartTrashCan_copy_20260525154323.ino)
 
 ## Future Improvements
 - Mobile app control
